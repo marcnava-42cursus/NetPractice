@@ -15,9 +15,7 @@ The project consists of a series of progressive exercises focused on network con
 
 ### Running the Training Interface
 
-The training interface is provided as part of the project resources. To run it, open the `index.html` file using a Chromium-based web browser. The interface does not function correctly on Firefox.
-
-All required HTML files and assets are included in the project.
+The training interface is provided by 42 as part of the project resources. To access it, use the computers available at the 42 campus or the official NetPractice platform. The interface does not function correctly on Firefox — use a Chromium-based web browser instead.
 
 ### Exporting Configurations
 
